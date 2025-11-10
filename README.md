@@ -1,16 +1,11 @@
-## Hi there 👋
+### 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,matlab,ros" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Wolfram_Mathematica_11_icon.png"
+       width="40"
+       title="Wolfram Mathematica" />
+</p>
 
-<!--
-**decadeos/decadeos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <sub>Java</sub> • <sub>Python</sub> • <sub>MATLAB</sub> • <sub>ROS2</sub> • <sub>Wolfram Mathematica</sub>
+</p>
