@@ -1,7 +1,3 @@
-## Algorithm Visualization • Robotics •
-Учусь, экспериментирую, пишу свой первый проект.
-
-
 ## Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,matlab,ros,latex,linux,git" />
